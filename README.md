@@ -2,6 +2,7 @@
 A tool that helps you download large amount of comics automatically!<br>
 
 Example here: <br>
+無限動漫 https://m.comicbus.com/ <br>
 Detective Conan 名探偵コナン <br>
 https://m.comicbus.com/comic/manga-653.html <br>
 
