@@ -6,6 +6,10 @@ Example here: <br>
 Detective Conan 名探偵コナン <br>
 https://m.comicbus.com/comic/manga-653.html <br>
 
+Caution:<br>
+Please put the chromedriver and the python file into the same folder.<br>
+The most updated chromdriver: https://chromedriver.chromium.org/downloads<br>
+<br>
 Once you run the file,<br>
 the program will ask which episodes you want to download.<br>
 if you type 1 & 10 like below:<br>
